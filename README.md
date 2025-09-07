@@ -12,37 +12,36 @@ Dashboard Pages
 
 1. Executive Overview
 
-Total donations, total donors, and average donation
-Donations by period and by month
-Breakdown of donation types (one-time vs recurring)
-Donations by country
+Total donations, total donors, and average donation <br>
+Donations by period and by month <br>
+Breakdown of donation types (one-time vs recurring) <br>
+Donations by country <br>
 
 2. Donor Demographics
 
-Donations by age group
-Donation type by age group
-Donations by country (map)
-Donations by gender and age group
+Donations by age group <br>
+Donation type by age group <br>
+Donations by country (map) <br>
+Donations by gender and age group <br>
 
 3. Donation Behavior
 
-Monthly donation volume
-Donations by payment method
-Donation amount vs. age group
-Donations by professional sector
+Monthly donation volume <br>
+Donations by payment method <br>
+Donation amount vs. age group <br>
+Donations by professional sector <br>
 
 Skills Practiced
 
-Building dashboards and interactive reports in Power BI
-Creating visual storytelling with charts, maps, and KPIs
-Designing multi-page layouts for different perspectives (overview, demographics, behavior)
-Exploring donor trends without advanced transformations (direct dataset use)
+Building dashboards and interactive reports in Power BI <br>
+Creating visual storytelling with charts, maps, and KPIs <br>
+Designing multi-page layouts for different perspectives (overview, demographics, behavior) <br>
+Exploring donor trends without advanced transformations (direct dataset use) <br>
 
 Key Takeaways
 
-Most donations come from one-time donors, but monthly contributions still make up a significant portion of revenue
-Donors aged 30–49 were the largest giving group overall
-The USA and UK stand out as top donor countries
-Bank transfer and PayPal were the most common payment methods
-
-Professional sector breakdown highlights variation in donation behaviors
+Most donations come from one-time donors, but monthly contributions still make up a significant portion of revenue <br>
+Donors aged 30–49 were the largest giving group overall <br>
+The USA and UK stand out as top donor countries <br>
+Bank transfer and PayPal were the most common payment methods <br>
+Professional sector breakdown highlights variation in donation behaviors <br>
