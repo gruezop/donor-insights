@@ -3,6 +3,10 @@ Donor Insights & Fundraising Dashboard
 This project uses Power BI to visualize donation records from a simulated dataset of 10,000 entries for a fictional animal conservation charity. The data includes donor demographics, donation amounts, donation types, countries, payment methods, and professional sectors.
 The goal of this project was to practice dashboard design and storytelling with data by creating interactive views of donor activity and fundraising performance.
 
+Dataset
+The dataset was sourced from Kaggle:
+https://www.kaggle.com/datasets/jaderz/synthetic-animal-charity-donations
+
 Dashboard Pages
 1. Executive Overview
 Total donations, total donors, and average donation
